@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package test;
+package check;
 
 import static org.junit.Assert.*;
 import org.junit.internal.AssumptionViolatedException;
